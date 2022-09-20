@@ -24,3 +24,19 @@ Security experts, researchers, cyber enthusiasts, and hackers are eager to share
 
   - Peter Kruse: https://twitter.com/peterkruse
       - Peter Kruse is the eCrime specialist at CSISS Security Group and a leading online security expert. He is often the first to break the news about major sources of malware or new cyber threats, so it’s a good idea to follow him for updates on the latest evolutions in cybersecurity.
+
+  - Eugene Kaspersky: https://twitter.com/e_kaspersky
+      - Eugene Kaspersky, the founder of the cybersecurity company bearing his name, is one leading figure in the field of online security. He most often tweets about new cyber threats, but on occasion writes his own opinions and views on the state of cybersecurity.
+  
+  - Troy Hunt: https://twitter.com/troyhunt
+      - Troy Hunt is a Microsoft executive charged with product security and creator of www.haveibeenpwned.com . It’s safe to say he is an authority figure when it comes to online security. His Twitter account is similarly diverse and filled with useful content.
+  
+  - Swift on Security: https://twitter.com/SwiftOnSecurity
+      - Swift on Security combines humor and practical online security advice in a fun and engaging Twitter account.
+
+  - Debra Baker: 
+      - Debra Baker has an account filled with hot infosec news and also posts a regular podcast filled with security insights. Her 20 years of experience in IT security and Cisco expertise make her a valuable educational resource.
+
+  - Jayson Street: https://twitter.com/deb_infosec
+    - A cybersecurity specialist that helps educate users, businesses, and employees alike on cybersecurity know-how. Jayson has a rich career behind, and a wealthier knowledge base which he shares with others, including on Twitter.
+    

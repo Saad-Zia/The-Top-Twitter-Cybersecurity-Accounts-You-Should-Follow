@@ -21,3 +21,6 @@ Security experts, researchers, cyber enthusiasts, and hackers are eager to share
   
   - Catalin Cimpanu: https://twitter.com/campuscodi
       - Security news writer for The Record Media, Catalin’s tweets often explain the inner workings of the latest scam, malware, or other types of cybersecurity trends. At the same time, he tweets about the new events in the online security field.
+
+  - Peter Kruse: https://twitter.com/peterkruse
+      - Peter Kruse is the eCrime specialist at CSISS Security Group and a leading online security expert. He is often the first to break the news about major sources of malware or new cyber threats, so it’s a good idea to follow him for updates on the latest evolutions in cybersecurity.
